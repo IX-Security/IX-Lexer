@@ -1,0 +1,9 @@
+{
+	"name": "IX-Lexer",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerStorage": { "$className": "ServerStorage", "Lexer": { "$path": "Source" }  },
+		"ServerScriptService": { "$className": "ServerScriptService", "Lexer-Tests": { "$path": "Tests" } }
+	}
+}
